@@ -1,0 +1,19 @@
+
+body {
+    background-color: bisque;
+}
+
+h1 {
+    color: blue;
+    background-color: aquamarine;
+}
+h2 {
+    background-color: gold;
+}
+p {
+    color: blueviolet;
+background-color: white;
+}
+* {
+    text-align: center;
+}
